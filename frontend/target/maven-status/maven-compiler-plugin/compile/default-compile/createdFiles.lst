@@ -1,6 +1,0 @@
-com\example\demo\config\SecurityConfig.class
-com\example\demo\model\Employee.class
-com\example\demo\services\EmployeeService.class
-com\example\demo\controller\EmployeeController.class
-com\example\demo\EmployeeApplication.class
-com\example\demo\repository\EmployeeRepository.class
